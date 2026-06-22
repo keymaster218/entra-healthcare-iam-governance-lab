@@ -6,8 +6,7 @@
 - Group-based assignments
 - Separation of duties
 - Periodic access review
-- Just-in-time administrationgit push
-
+- Just-in-time administration
 
 ## Workforce Roles
 
