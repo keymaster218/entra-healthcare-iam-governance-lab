@@ -1,38 +1,52 @@
-## Healthcare IAM Governance Lab
+# Healthcare IAM Governance Lab
 
-This project demonstrates the design and implementation of identity and access management controls for a simulated healthcare organization.
-The lab focuses on Microsoft Entra ID, role-based access control, Conditional Access, privileged access governance, access reviews, and HIPAA-aligned access control practices.
+## Overview
 
-## Scenario
+This repository demonstrates the design and implementation of an enterprise Identity and Access Management (IAM) program for a fictional healthcare organization using Microsoft Entra ID.
 
-Northstar Health Services is a simulated healthcare organization that needs to improve identity and access governance for cloud-based administrative and clinical support systems.
-The organization must ensure that workforce access is granted based on job role, privileged access is controlled, and access reviews are performed to support audit readiness and protection of sensitive healthcare systems.
+The project combines governance, identity lifecycle management, Conditional Access, automation, and compliance mapping to simulate real-world IAM engineering practices.
 
-## Project Objectives
+---
 
-- Design a role-based access model for healthcare workforce users
-- Implement least privilege access through groups and RBAC
-- Document Conditional Access policies for MFA and legacy authentication blocking
-- Define privileged access controls for administrative roles
-- Create an access review process for audit readiness
-- Map IAM controls to HIPAA Security Rule expectations
+## Objectives
 
-## Core IAM Controls
+* Design role-based access control
+* Implement identity lifecycle management
+* Build Microsoft Entra Conditional Access policies
+* Automate HR-driven offboarding
+* Demonstrate Microsoft Graph automation
+* Map controls to HIPAA and NIST
+* Produce audit evidence
 
-- Workforce role-based access
-- Microsoft Entra ID group design
-- MFA enforcement
-- Conditional Access policy design
-- Privileged access governance
-- Break-glass account controls
-- Quarterly access reviews
-- Audit evidence collection
+---
 
-## Tools and Technologies
+## Current Progress
 
-- Microsoft Entra ID
-- Azure RBAC
-- Conditional Access
-- Microsoft Graph PowerShell
-- Azure Portal
-- Markdown documentation
+| Phase               | Status         |
+|---------------------|----------------|
+| Identity Governance | Complete       |
+| Identity Protection | In Progress    |
+| Identity Lifecycle  | In Progress    |
+| IAM Automation      | Planned        |
+| Compliance          | In Progress    |
+| Architecture        | Planned        |
+
+---
+
+## Technologies
+
+* Microsoft Entra ID
+* Microsoft Graph
+* PowerShell
+* OAuth 2.0 Client Credentials
+* Conditional Access
+* RBAC
+* PIM
+* Git
+* GitHub
+
+---
+
+## Disclaimer
+
+This repository uses fictional identities, departments, and healthcare scenarios for educational purposes.
