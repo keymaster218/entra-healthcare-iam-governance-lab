@@ -2,28 +2,28 @@
 
 ## Design Principles
 
-- Least privilege
-- Group-based assignments
-- Separation of duties
-- Periodic access review
-- Just-in-time administration
+* Least privilege
+* Group-based assignments
+* Separation of duties
+* Periodic access review
+* Just-in-time administration
 
 ## Workforce Roles
 
-| Department | Role | Access |
-|-----------|------|--------|
-| Health Information Management | Records Specialist | Read-only |
-| Revenue Cycle | Billing Analyst | Application access |
-| Clinical Applications | Application Support | Limited administration |
-| IT Service Desk | Support Technician | Password reset |
-| Security Operations | Security Analyst | Security Reader |
-| Cloud Operations | Cloud Engineer | Contributor |
-| Compliance | Compliance Analyst | Audit access |
+| Department                    | Role                | Primary Access         |
+|-------------------------------|---------------------|------------------------|
+| Health Information Management | Records Specialist  | Read-only              |
+| Revenue Cycle                 | Billing Analyst     | Application access     |
+| Clinical Applications         | Application Support | Limited administration |
+| IT Service Desk               | Support Technician  | Password reset         |
+| Security Operations           | Security Analyst    | Security Reader        |
+| Cloud Operations              | Cloud Engineer      | Contributor            |
+| Compliance                    | Compliance Analyst  | Audit access           |
 
 ## Administrative Roles
 
-- Identity Administrator
-- Privileged Role Administrator
-- Global Reader
-- Security Administrator
-- Break-Glass Administrator
+* Identity Administrator
+* Privileged Role Administrator
+* Global Reader
+* Security Administrator
+* Break-Glass Administrator

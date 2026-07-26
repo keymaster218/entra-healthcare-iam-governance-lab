@@ -8,11 +8,11 @@ Access is assigned to groups rather than directly to users.
 
 Benefits include:
 
-- Simplified onboarding
-- Consistent access assignment
-- Easier auditing
-- Reduced privilege creep
-- Improved access reviews
+* Simplified onboarding
+* Consistent access assignment
+* Easier auditing
+* Reduced privilege creep
+* Improved access reviews
 
 ---
 
@@ -43,11 +43,11 @@ Benefits include:
 
 ## Group Assignment Principles
 
-- Access is granted through group membership.
-- Administrative privileges require separate accounts.
-- Privileged roles are periodically reviewed.
-- Access reviews occur quarterly.
-- Emergency access accounts are monitored and excluded from Conditional Access policies.
+* Access is granted through group membership.
+* Administrative privileges require separate accounts.
+* Privileged roles are periodically reviewed.
+* Access reviews occur quarterly.
+* Emergency access accounts are monitored and excluded from Conditional Access policies.
 
 ---
 
@@ -59,6 +59,6 @@ Department-Function-AccessLevel
 
 Examples:
 
-- HIM-Records-Readers
-- SecurityOps-Readers
-- CloudOps-Contributors
+* HIM-Records-Readers
+* SecurityOps-Readers
+* CloudOps-Contributors
