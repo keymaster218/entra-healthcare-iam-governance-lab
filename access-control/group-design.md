@@ -18,26 +18,26 @@ Benefits include:
 
 ## Workforce Security Groups
 
-| Group Name | Purpose |
-|------------|----------|
-| HIM-Records-Readers | Read-only access to medical records systems |
-| RevenueCycle-Billing | Billing and revenue applications |
-| ClinicalApp-Support | Clinical application support |
-| ITServiceDesk-PasswordReset | Password reset permissions |
-| SecurityOps-Readers | Security monitoring and log review |
-| CloudOps-Contributors | Cloud resource administration |
-| Compliance-Auditors | Audit and reporting access |
+| Group Name                  | Purpose                                     |
+|-----------------------------|---------------------------------------------|
+| HIM-Records-Readers         | Read-only access to medical records systems |
+| RevenueCycle-Billing        | Billing and revenue applications            |
+| ClinicalApp-Support         | Clinical application support                |
+| ITServiceDesk-PasswordReset | Password reset permissions                  |
+| SecurityOps-Readers         | Security monitoring and log review          |
+| CloudOps-Contributors       | Cloud resource administration               |
+| Compliance-Auditors         | Audit and reporting access                  |
 
 ---
 
 ## Administrative Security Groups
 
-| Group Name | Purpose |
-|------------|----------|
-| IAM-Eligible-Admins | Privileged administrative roles |
-| IAM-IdentityAdmins | Identity administration |
-| IAM-SecurityAdmins | Security administration |
-| IAM-BreakGlass | Emergency access accounts |
+| Group Name            | Purpose                         |
+|-----------------------|---------------------------------|
+| IAM-Eligible-Admins   | Privileged administrative roles |
+| IAM-IdentityAdmins    | Identity administration         |
+| IAM-SecurityAdmins    | Security administration         |
+| IAM-BreakGlass        | Emergency access accounts       |
 
 ---
 
